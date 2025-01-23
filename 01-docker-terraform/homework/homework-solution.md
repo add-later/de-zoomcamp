@@ -12,7 +12,7 @@ pip --version
 # Question 2
 **ANSWER**: postgres:5432
 
-For adding green taxi data, lesson script were used. Code is located at []
+For adding green taxi data, lesson script were used. Code is located at [(https://github.com/add-later/de-zoomcamp/blob/main/01-docker-terraform/docker-sql/upload_data.ipynb)]
 # Question 3
 up to 1 mile query
 ```
